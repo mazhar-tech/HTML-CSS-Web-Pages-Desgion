@@ -1,0 +1,41 @@
+body {
+    background-color: gray;
+    font-family: 'Forum', cursive;
+}
+
+.h3 {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.second {
+
+    background-color: #e1cec3;
+}
+
+.h5 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.middle {
+    background-color: #af7153;
+    color: white;
+}
+.middleText{
+    margin-top: 200px;
+    margin-bottom: 200px;
+
+}
+.middleT{
+    color: black;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.third{
+    color: white;
+    background-color: #af7153;
+}
